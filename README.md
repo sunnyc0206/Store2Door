@@ -1,4 +1,3 @@
-![Store2Door E-commerce](https://user-images.githubusercontent.com/43764894/223762927-2e463570-b09a-4d51-ab81-2e0fa8aa2c70.png)
 
   From there, you can install the project's dependencies by running:
 
